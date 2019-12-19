@@ -1,0 +1,18 @@
+//
+//  Release.xcconfig
+//  Traveling
+//
+//  Created by Le Nam on 12/19/19.
+//  Copyright © 2019 Le Nam. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+APP_NAME = Traveling RELEASE
+APP_VERSION = 0.3
+APP_BUILD = 5
+APP_BUNDLE_ID = com.ndl.traveling
+
+BACKEND_URL = http:\/\/api.intensifystudio.com/
+CONSUMER_KEY = ck_a57e4fa2e14c12f400371cf2951ec3dea5
+CONSUMER_SECRET = cs_c847caa35ce1041e9c69d239141f1f63bb22b
